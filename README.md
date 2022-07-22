@@ -1,8 +1,21 @@
+
+
+
 ### Hi there 👋
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wyqacoffer&show_icons=true&theme=gruvbox_light" />
+
+- 🔭 I’m currently working on Alibaba-Inc
+- 🌱 I’m currently learning SwiftUI
+- 👯 I’m looking to collaborate on Apple
+- 🤔 I’m looking for help with YOU
+- 💬 Ask me about iOS
+- 📫 How to reach me: acoffer@foxmail.com
+- 😄 Pronouns: LOW KEY
+- ⚡ Fun fact: learning guitar🎸
 
 <!--
 **wyqACoffer/wyqAcoffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +26,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
