@@ -12,7 +12,7 @@
 - 💬 Ask me about iOS
 - 📫 How to reach me: acoffer@foxmail.com
 - 😄 Pronouns: LOW KEY
-- ⚡ Fun fact: learning guitar🎸
+- ⚡ Fun fact: calligraphy gituar CSGO
 
 <!--
 **wyqACoffer/wyqAcoffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
