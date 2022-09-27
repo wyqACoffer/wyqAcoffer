@@ -11,8 +11,8 @@
 - 🤔 I’m looking for help with YOU
 - 💬 Ask me about iOS
 - 📫 How to reach me: acoffer@foxmail.com
-- 😄 Pronouns: LOW KEY
-- ⚡ Fun fact: calligraphy gituar CSGO
+- 😄 Pronouns: Independent
+- ⚡ Fun fact: Calligraphy Gituar
 
 <!--
 **wyqACoffer/wyqAcoffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
