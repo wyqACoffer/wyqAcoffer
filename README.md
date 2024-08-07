@@ -12,7 +12,7 @@
 - 💬 Ask me about iOS
 - 📫 How to reach me: acoffer@foxmail.com
 - 😄 Pronouns: Independent
-- ⚡ Fun fact: Calligraphy Gituar
+- ⚡ Fun fact: Sleep...
 
 <!--
 **wyqACoffer/wyqAcoffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
